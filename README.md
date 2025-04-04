@@ -97,6 +97,12 @@ El sistema utiliza autenticación basada en roles (USER y ADMIN). Los roles se m
   ```
   http://localhost:8081/auth/login
   ```
+5. Ingreso a la aplicación web
+   Utilice las siguientes credenciales para ingresar a la web, tenga en cuenta que se deberon poblar los datos inciales descritos en documento README del Backend.
+  ```
+  Username: andrescolonia / Password: 1234 [ADMIN]
+  Username: felipealdana / Password: 1234 [USER]
+  ```
 
 ### Opción 2: Despliegue con Tomcat
 
@@ -119,6 +125,12 @@ C:\Program Files\Apache Software Foundation\Tomcat\bin\startup.bat
 ```
 http://localhost:8081/auth/login
 ```
+7. Ingreso a la aplicación web
+   Utilice las siguientes credenciales para ingresar a la web, tenga en cuenta que se deberon poblar los datos inciales descritos en documento README del Backend.
+  ```
+  Username: andrescolonia / Password: 1234 [ADMIN]
+  Username: felipealdana / Password: 1234 [USER]
+  ```
 
 ## Notas Importantes
 
