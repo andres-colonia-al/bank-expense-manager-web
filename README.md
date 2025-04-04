@@ -1,4 +1,4 @@
-# Proyecto Frontend Web - Gestión de Gastos Menores
+# Proyecto Frontend Web - Gestión de Gastos Menores para un Banco
 
 Este proyecto frontend web consume APIs RESTful de un backend desarrollado con Java y Spring Boot. 
 Utiliza JSP para renderizar vistas dinámicas y Bootstrap para estilizar la interfaz de usuario.
